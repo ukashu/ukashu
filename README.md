@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm ukashu
 
-I'm a self-taught software developer fascinated with figuring out how technology works.
+🛠 I'm a self-taught software developer fascinated with figuring out how technology works.
+
+🐱‍💻 I'm always looking for new challenges that make me a better programmer.
 
 🌱 I’m currently learning refactoring and writing cleaner code with <a href="https://martinfowler.com/books/refactoring.html">Refactoring</a> by Martin Fowler
 
